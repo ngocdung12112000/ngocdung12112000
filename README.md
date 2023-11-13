@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### My Portfolio: [HERE](https://portfoliobnd.web.app)
 
-### My Resume Website: [HERE](https://longphanquangminh.github.io/Long-Phan-Resume)
+### My Resume Website: [HERE](https://portfoliobnd.web.app)
 
 ### Languages and Tools:
 
@@ -66,12 +66,12 @@ Here are some ideas to get you started:
 <br/>
 
 # 💫 About Me:
-- 👊 I am presently ranked in the top **#188** among GitHub Users By Followers in **Vietnam** 🇻🇳 (10/2023). Evidence link: [here](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/vietnam.md)
-- 🌱 I’m currently learning VueJS 😄
+- 👊 I am presently a fullstack developer but still learning
+- 🌱 I’m currently learning NODEJS 😄
 - 💬 Ask me about everything 🤔
-- 📫 Contact me via email: <a href="mailto:phanquangminhlong@gmail.com?subject=Hello Minh Long">phanquangminhlong@gmail.com</a>.
-- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view">here</a>.<!-- - ⚡ Fun fact: I love to watch 🇯🇵 anime <img src="https://www.downloadclipart.net/large/dragon-ball-super-png-image.png" width="12px"> -->
-- ⚡ Fun fact: I love to watch 🇯🇵 anime.
+- 📫 Contact me via email: <a href="mailto:dungbachngoc20@gmail.com?subject=Hello Ngọc Dũng">dungbachngoc20@gmail.com</a>.
+- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view">here</a>.
+- ⚡ Fun fact:
 
 
 
@@ -83,13 +83,13 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api?username=longphanquangminh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ngocdung12112000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
  
 </div>
 
 <div align="center">
  
-![](https://github-readme-streak-stats.herokuapp.com/?user=longphanquangminh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ngocdung12112000&theme=dark&hide_border=false)<br/>
 
 </div>
 
