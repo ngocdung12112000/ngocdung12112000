@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi there, my name is Phan Quang Minh Long (ngocdung).
+## 👋 Hi there, my name is Ngọc Dũng (bndz).
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=8AAEFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ngọc+Dũng.;I'm+a+Front-end+Developer.;I'm+a+React+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=8AAEFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ngọc+Dũng.;I'm+a+Front-end+Developer.;I'm+a+Fullstack+Developer.)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,19 +36,9 @@ Here are some ideas to get you started:
 
 <img align="right" width="399px" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-### My Portfolio: [HERE](https://bit.ly/portfolio-pqmlong)
+### My Portfolio: [HERE](https://portfoliobnd.web.app)
 
 ### My Resume Website: [HERE](https://longphanquangminh.github.io/Long-Phan-Resume)
-
-### My UEL AR Camera app (CH Play): [HERE](https://play.google.com/store/apps/details?id=com.DefaultCompany.MyProjectCameraDemohihi)
-
-### My Manga App Made With GLIDEAPP: [HERE](https://mangapqml.glideapp.io)
-
-### My Github City In 2023: [HERE](https://honzaap.github.io/GithubCity/?name=longphanquangminh&year=2023)
-
-### My Demo Music Website: [HERE](https://longphanquangminh.github.io/ML-Music-Player-F8)
-
-
 
 ### Languages and Tools:
 
@@ -61,23 +51,15 @@ Here are some ideas to get you started:
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/344/bootstrap.png" />
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/officel/344/react.png" />
 <img align="left" alt="sqlserver" width="26px" src="https://img.icons8.com/color/344/nextjs.png" />
-<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/344/angularjs.png" />
+<img align="left" alt="ReactJS" width="26px" src="https://img.icons8.com/bubbles/344/react.png" />
 <img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/344/typescript.png" />
 <img align="left" alt="nodejs" width="26px" src="https://img.icons8.com/color/344/nodejs.png" />
-<img align="left" alt="grunt" width="26px" src="https://gruntjs.com/img/og.png" />
-<!-- [<img align="left" alt="gulp" width="26px" src="https://media.discordapp.net/attachments/1026660684739653674/1108645323263451176/gulp26official.png" />][website] -->
 <img align="left" alt="mysql" width="26px" src="https://img.icons8.com/color/344/mysql.png" />
 <img align="left" alt="ubuntu" width="26px" src="https://img.icons8.com/color/344/ubuntu.png" />
-<img align="left" alt="rails" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-rails-a-server-side-web-application-framework-written-in-ruby-logo-color-tal-revivo.png" />
-<img align="left" alt="intellij" width="26px" src="https://img.icons8.com/color/344/intellij-idea.png" />
-<img align="left" alt="figma" width="26px" src="https://img.icons8.com/color/344/figma--v1.png" />
-<img align="left" alt="photoshop" width="26px" src="https://img.icons8.com/color/344/adobe-photoshop--v1.png" />
 
-[facebook]: https://www.facebook.com/pqmlong265
-[instagram]: https://www.instagram.com/minhlong909
-[linkedin]: https://www.linkedin.com/in/phanquangminhlong
-[twitter]: https://twitter.com/pqmlong
-[github]: https://github.com/longphanquangminh
+[facebook]: https://www.facebook.com/dung.bach.908579/
+[linkedin]: https://www.linkedin.com/in/ng%E1%BB%8Dc-d%C5%A9ng-701672183/
+[github]: https://github.com/ngocdung12112000
 
 <br/>
 <br/>
