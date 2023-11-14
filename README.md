@@ -115,6 +115,5 @@ Here are some ideas to get you started:
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=bndung&icon=2&color=1)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=bndung&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
