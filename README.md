@@ -40,20 +40,19 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/344/html-5--v1.png" />
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/344/css3.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/344/javascript--v1.png" />
-<img align="left" alt="sass" width="26px" src="https://img.icons8.com/color/344/sass.png" />
-<img align="left" alt="canva" width="26px" src="https://img.icons8.com/color/344/tailwindcss.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/344/bootstrap.png" />
-<img align="left" alt="React" width="26px" src="https://img.icons8.com/officel/344/react.png" />
-<img align="left" alt="sqlserver" width="26px" src="https://img.icons8.com/color/344/nextjs.png" />
-<img align="left" alt="ReactJS" width="26px" src="https://img.icons8.com/bubbles/344/react.png" />
-<img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/344/typescript.png" />
-<img align="left" alt="nodejs" width="26px" src="https://img.icons8.com/color/344/nodejs.png" />
-<img align="left" alt="mysql" width="26px" src="https://img.icons8.com/color/344/mysql.png" />
-<img align="left" alt="ubuntu" width="26px" src="https://img.icons8.com/color/344/ubuntu.png" />
+<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/400/html-5--v1.png" />
+<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/400/css3.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/400/javascript--v1.png" />
+<img align="left" alt="sass" width="26px" src="https://img.icons8.com/color/400/sass.png" />
+<img align="left" alt="canva" width="26px" src="https://img.icons8.com/color/400/tailwindcss.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/400/bootstrap.png" />
+<img align="left" alt="React" width="26px" src="https://img.icons8.com/officel/400/react.png" />
+<img align="left" alt="sqlserver" width="26px" src="https://img.icons8.com/color/400/nextjs.png" />
+<img align="left" alt="ReactJS" width="26px" src="https://img.icons8.com/bubbles/400/react.png" />
+<img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/400/typescript.png" />
+<img align="left" alt="nodejs" width="26px" src="https://img.icons8.com/color/400/nodejs.png" />
+<img align="left" alt="mysql" width="26px" src="https://img.icons8.com/color/400/mysql.png" />
+<img align="left" alt="ubuntu" width="26px" src="https://img.icons8.com/color/400/ubuntu.png" />
 
 [facebook]: https://www.facebook.com/dung.bach.908579/
 [linkedin]: https://www.linkedin.com/in/ng%E1%BB%8Dc-d%C5%A9ng-701672183/
