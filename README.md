@@ -23,16 +23,9 @@ Here are some ideas to get you started:
 </div>
 
 ### Connect with me:
-
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-
 <br />
 
-<a href="https://app.daily.dev/bndung1"><img src="https://api.daily.dev/devcards/fe9abe03e665480689ee776c0c766186.png?r=tjy" width="400" alt="Bạch Ngọc Dũng's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/bndung1"><img src="https://api.daily.dev/devcards/fe9abe03e665480689ee776c0c766186.png?r=tjy" width="400" alt="Bạch Ngọc Dũng's Dev Card"/></a>
 
 ### My Portfolio: [HERE](https://portfoliobnd.web.app)
 
