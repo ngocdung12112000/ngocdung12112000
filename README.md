@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 - 👊 I am presently a fullstack developer but still learning
-- 🌱 I’m currently learning NODEJS 😄
+- 🌱 I’m currently learning NODEJS, Docker and CI/CD 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:dungbachngoc20@gmail.com?subject=Hello Ngọc Dũng">dungbachngoc20@gmail.com</a>.
 - 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view">here</a>.
