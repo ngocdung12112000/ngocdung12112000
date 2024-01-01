@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NODEJS, Docker and CI/CD 😄
 - 💬 Ask me about everything 🤔
 - 📫 Contact me via email: <a href="mailto:dungbachngoc20@gmail.com?subject=Hello Ngọc Dũng">dungbachngoc20@gmail.com</a>.
-- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1t9LyC15nODKYXYYqHkbzFa3JVoMjP72_/view">here</a>.
+- 📄 See my CV: <a target="_blank" href="https://drive.google.com/file/d/1IrVa69mmTz_5XYYf1OI9vccOsog65wIH/view?usp=sharing">here</a>.
 - ⚡ Fun fact:
 
 
